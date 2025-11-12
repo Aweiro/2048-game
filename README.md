@@ -1,1 +1,1 @@
-    - [DEMO LINK](https://aweiro.github.io/2048-game/)
+[🔗 DEMO LINK](https://aweiro.github.io/2048-game/)
